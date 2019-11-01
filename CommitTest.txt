@@ -1,3 +1,6 @@
 test content for tutorial
 
-Blah-Blah add a new change
+Blah-Blah add a new-new change.
+I am modifying local file while in same location! OMG this is wild.
+
+Changing already staged file locally!
